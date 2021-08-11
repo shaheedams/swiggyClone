@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/swiggyClone/static/css/main.4aa632a5.chunk.css",
+    "main.js": "/swiggyClone/static/js/main.5c57c8f9.chunk.js",
+    "main.js.map": "/swiggyClone/static/js/main.5c57c8f9.chunk.js.map",
+    "runtime-main.js": "/swiggyClone/static/js/runtime-main.2d08904d.js",
+    "runtime-main.js.map": "/swiggyClone/static/js/runtime-main.2d08904d.js.map",
+    "static/js/2.7bdae865.chunk.js": "/swiggyClone/static/js/2.7bdae865.chunk.js",
+    "static/js/2.7bdae865.chunk.js.map": "/swiggyClone/static/js/2.7bdae865.chunk.js.map",
+    "index.html": "/swiggyClone/index.html",
+    "static/css/main.4aa632a5.chunk.css.map": "/swiggyClone/static/css/main.4aa632a5.chunk.css.map",
+    "static/js/2.7bdae865.chunk.js.LICENSE.txt": "/swiggyClone/static/js/2.7bdae865.chunk.js.LICENSE.txt",
+    "static/media/profileImage.bc60adac.jfif": "/swiggyClone/static/media/profileImage.bc60adac.jfif",
+    "static/media/swiggyIcon.88f52d71.png": "/swiggyClone/static/media/swiggyIcon.88f52d71.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d08904d.js",
+    "static/js/2.7bdae865.chunk.js",
+    "static/css/main.4aa632a5.chunk.css",
+    "static/js/main.5c57c8f9.chunk.js"
+  ]
+}
